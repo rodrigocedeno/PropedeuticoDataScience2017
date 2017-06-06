@@ -1,42 +1,9 @@
 # PropedeuticoDataScience2017
 Este es el reporsitorio del curso propedéutico de la maestría en ciencias de datos
 
-  <style type="text/css">
-    body {
-      font-size: 14px;
-      font-family: Tahoma, Geneva, sans-serif;
-      margin: 1cm;
-      max-width: 800px;
-    }
+## Avisos y pendientes
 
-    p {
-      text-align: justify;
-    }
-
-    hr {
-      border-color: Azure;
-    }
-
-    h1,
-    h2,
-    h3,
-    h4 {
-      margin-top: 20px;
-      margin-bottom: 10px;
-      color: #145a32;
-      font-weight: bold;
-    }
-
-    small {
-      color: #777;
-      font-weight: normal;
-    }
-
-    code {
-      color: #c7254e;
-      background-color: #f9f2f4;
-    }
-  </style>
+* Poner su nombre en el documento de la siguiente liga: [dar click aqui](https://docs.google.com/spreadsheets/d/1RtzFZ73s80qoZVTVfJCsHzei0hkLeEyv179NqUZ9uD0/edit?usp=sharing)
 
 
   <h1>Curso Propedéutico</h1>
