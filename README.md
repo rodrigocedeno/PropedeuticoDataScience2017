@@ -3,10 +3,13 @@ Este es el reporsitorio del curso propedéutico de la maestría en ciencias de d
 
 ## Avisos y pendientes
 
+* Su compañero Eduardo Sulim comparte los siguientes libros accesibles para Álgebra Lineal:
+  + *Basics of Matrix Algebra* Nick Fieller
+  + *Matrix Algebra* James E. Gentle
+  + *Numerical Lineal Algebra for Applications in Statistics*  James E. Gentle
 * La primera tarea está lista en la carpeta Tareas con el nombre Proyecto1
 * Curso para Python en Udemy: [https://www.udemy.com/complete-python-bootcamp/learn/v4/overview]()
 * Poner su nombre en el documento de la siguiente liga: [dar click aqui](https://docs.google.com/spreadsheets/d/1RtzFZ73s80qoZVTVfJCsHzei0hkLeEyv179NqUZ9uD0/edit?usp=sharing)
-
 
 
 <h1>Curso Propedéutico</h1>
